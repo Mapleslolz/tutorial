@@ -1,0 +1,37 @@
+c:\users\洪聖傑\documents\visual studio 2015\Projects\PTT_Crawler\PTT_Crawler\obj\Debug\PTT_Crawler.csprojResolveAssemblyReference.cache
+c:\users\洪聖傑\documents\visual studio 2015\Projects\PTT_Crawler\PTT_Crawler\obj\Debug\PTT_Crawler.Form1.resources
+c:\users\洪聖傑\documents\visual studio 2015\Projects\PTT_Crawler\PTT_Crawler\obj\Debug\PTT_Crawler.Properties.Resources.resources
+c:\users\洪聖傑\documents\visual studio 2015\Projects\PTT_Crawler\PTT_Crawler\obj\Debug\PTT_Crawler.csproj.GenerateResource.Cache
+C:\Users\洪聖傑\Documents\Visual Studio 2015\Projects\PTT_Crawler\PTT_Crawler\bin\Debug\PTT-Crawler.exe.config
+C:\Users\洪聖傑\Documents\Visual Studio 2015\Projects\PTT_Crawler\PTT_Crawler\bin\Debug\PTT-Crawler.exe
+C:\Users\洪聖傑\Documents\Visual Studio 2015\Projects\PTT_Crawler\PTT_Crawler\bin\Debug\PTT-Crawler.pdb
+C:\Users\洪聖傑\Documents\Visual Studio 2015\Projects\PTT_Crawler\PTT_Crawler\bin\Debug\MySql.Data.dll
+C:\Users\洪聖傑\Documents\Visual Studio 2015\Projects\PTT_Crawler\PTT_Crawler\bin\Debug\WebDriver.dll
+C:\Users\洪聖傑\Documents\Visual Studio 2015\Projects\PTT_Crawler\PTT_Crawler\bin\Debug\MySql.Data.xml
+C:\Users\洪聖傑\Documents\Visual Studio 2015\Projects\PTT_Crawler\PTT_Crawler\bin\Debug\WebDriver.xml
+C:\Users\洪聖傑\Documents\Visual Studio 2015\Projects\PTT_Crawler\PTT_Crawler\obj\Debug\PTT-Crawler.exe
+C:\Users\洪聖傑\Documents\Visual Studio 2015\Projects\PTT_Crawler\PTT_Crawler\obj\Debug\PTT-Crawler.pdb
+D:\Maples\CSMU\Lab\阿傑PTT爬蟲檔案\PTT_Crawler\PTT_Crawler\bin\Debug\PTT-Crawler.exe.config
+D:\Maples\CSMU\Lab\阿傑PTT爬蟲檔案\PTT_Crawler\PTT_Crawler\bin\Debug\PTT-Crawler.exe
+D:\Maples\CSMU\Lab\阿傑PTT爬蟲檔案\PTT_Crawler\PTT_Crawler\bin\Debug\PTT-Crawler.pdb
+D:\Maples\CSMU\Lab\阿傑PTT爬蟲檔案\PTT_Crawler\PTT_Crawler\bin\Debug\WebDriver.dll
+D:\Maples\CSMU\Lab\阿傑PTT爬蟲檔案\PTT_Crawler\PTT_Crawler\bin\Debug\MySql.Data.xml
+D:\Maples\CSMU\Lab\阿傑PTT爬蟲檔案\PTT_Crawler\PTT_Crawler\bin\Debug\WebDriver.xml
+D:\Maples\CSMU\Lab\阿傑PTT爬蟲檔案\PTT_Crawler\PTT_Crawler\obj\Debug\PTT_Crawler.csprojResolveAssemblyReference.cache
+D:\Maples\CSMU\Lab\阿傑PTT爬蟲檔案\PTT_Crawler\PTT_Crawler\obj\Debug\PTT_Crawler.Form1.resources
+D:\Maples\CSMU\Lab\阿傑PTT爬蟲檔案\PTT_Crawler\PTT_Crawler\obj\Debug\PTT_Crawler.Properties.Resources.resources
+D:\Maples\CSMU\Lab\阿傑PTT爬蟲檔案\PTT_Crawler\PTT_Crawler\obj\Debug\PTT_Crawler.csproj.GenerateResource.Cache
+D:\Maples\CSMU\Lab\阿傑PTT爬蟲檔案\PTT_Crawler\PTT_Crawler\obj\Debug\PTT-Crawler.exe
+D:\Maples\CSMU\Lab\阿傑PTT爬蟲檔案\PTT_Crawler\PTT_Crawler\obj\Debug\PTT-Crawler.pdb
+D:\Maples\CSMU\Lab\RJay_PTT_Crawler\PTT_Crawler\PTT_Crawler\bin\Debug\PTT-Crawler.exe.config
+D:\Maples\CSMU\Lab\RJay_PTT_Crawler\PTT_Crawler\PTT_Crawler\bin\Debug\PTT-Crawler.exe
+D:\Maples\CSMU\Lab\RJay_PTT_Crawler\PTT_Crawler\PTT_Crawler\bin\Debug\PTT-Crawler.pdb
+D:\Maples\CSMU\Lab\RJay_PTT_Crawler\PTT_Crawler\PTT_Crawler\bin\Debug\WebDriver.dll
+D:\Maples\CSMU\Lab\RJay_PTT_Crawler\PTT_Crawler\PTT_Crawler\bin\Debug\MySql.Data.xml
+D:\Maples\CSMU\Lab\RJay_PTT_Crawler\PTT_Crawler\PTT_Crawler\bin\Debug\WebDriver.xml
+D:\Maples\CSMU\Lab\RJay_PTT_Crawler\PTT_Crawler\PTT_Crawler\obj\Debug\PTT_Crawler.csprojResolveAssemblyReference.cache
+D:\Maples\CSMU\Lab\RJay_PTT_Crawler\PTT_Crawler\PTT_Crawler\obj\Debug\PTT_Crawler.Form1.resources
+D:\Maples\CSMU\Lab\RJay_PTT_Crawler\PTT_Crawler\PTT_Crawler\obj\Debug\PTT_Crawler.Properties.Resources.resources
+D:\Maples\CSMU\Lab\RJay_PTT_Crawler\PTT_Crawler\PTT_Crawler\obj\Debug\PTT_Crawler.csproj.GenerateResource.Cache
+D:\Maples\CSMU\Lab\RJay_PTT_Crawler\PTT_Crawler\PTT_Crawler\obj\Debug\PTT-Crawler.exe
+D:\Maples\CSMU\Lab\RJay_PTT_Crawler\PTT_Crawler\PTT_Crawler\obj\Debug\PTT-Crawler.pdb
